@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|d:\\faculdade\\c# web\\projetos\\fluxocaixavazio\\fluxocaixa\\classes\\serializa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\serializa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\classes\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\classes\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\classes\\tabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\tabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\paginas\\formcaixa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\paginas\\formcaixa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\fluxocaixa\\paginas\\formcaixa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{65525CB6-5B70-4823-9476-7972D6132DF6}|FluxoCaixa\\FluxoCaixa.csproj|solutionrelative:fluxocaixa\\paginas\\formcaixa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Lancamento.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\Lancamento.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Lancamento.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\Lancamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:40:55.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tabela.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Tabela.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\Tabela.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Tabela.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\Tabela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:40:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formCaixa.aspx",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Paginas\\formCaixa.aspx",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Paginas\\formCaixa.aspx",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Paginas\\formCaixa.aspx",
+              "RelativeToolTip": "FluxoCaixa\\Paginas\\formCaixa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T02:49:01.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formCaixa.aspx.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Paginas\\formCaixa.aspx.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Paginas\\formCaixa.aspx.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Paginas\\formCaixa.aspx.cs",
+              "RelativeToolTip": "FluxoCaixa\\Paginas\\formCaixa.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:25:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializa.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Serializa.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\Serializa.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Serializa.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\Serializa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:18:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Caixa.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\Caixa.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Caixa.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\Caixa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:13:35.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "FluxoCaixa\\Classes\\Usuario.cs",
+              "ToolTip": "D:\\Faculdade\\C# Web\\Projetos\\FluxoCaixaVazio\\FluxoCaixa\\Classes\\Usuario.cs",
+              "RelativeToolTip": "FluxoCaixa\\Classes\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:28:16.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

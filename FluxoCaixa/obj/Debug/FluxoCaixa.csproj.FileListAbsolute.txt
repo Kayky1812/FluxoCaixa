@@ -1,0 +1,313 @@
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll.config
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.pdb
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Owin.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Providers.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\WebGrease.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.pdb
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.AssemblyReference.cache
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+D:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CopyComplete
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll.config
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.pdb
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Owin.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Providers.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\WebGrease.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.pdb
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+E:\WEB-Santa\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
+D:\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll.config
+D:\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.dll
+D:\FluxoCaixa\FluxoCaixa\bin\FluxoCaixa.pdb
+D:\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.dll
+D:\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\FluxoCaixa\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+D:\FluxoCaixa\FluxoCaixa\bin\EntityFramework.dll
+D:\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.dll
+D:\FluxoCaixa\FluxoCaixa\bin\Owin.dll
+D:\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.dll
+D:\FluxoCaixa\FluxoCaixa\bin\System.Web.Providers.dll
+D:\FluxoCaixa\FluxoCaixa\bin\WebGrease.dll
+D:\FluxoCaixa\FluxoCaixa\bin\System.Web.Optimization.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Antlr3.Runtime.pdb
+D:\FluxoCaixa\FluxoCaixa\bin\Newtonsoft.Json.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\FluxoCaixa\FluxoCaixa\bin\EntityFramework.xml
+D:\FluxoCaixa\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FluxoCaixa\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.csprojResolveAssemblyReference.cache
+D:\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+D:\FluxoCaixa\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
+D:\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll.config
+D:\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.pdb
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Owin.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Providers.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\WebGrease.dll
+D:\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.pdb
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+D:\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
+D:\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.AssemblyReference.cache
+D:\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+D:\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CopyComplete
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll.config
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.pdb
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Owin.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Providers.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\WebGrease.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.pdb
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.AssemblyReference.cache
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CopyComplete
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+D:\Kayky\faculdade\4 semestre\Programação para servidores\Aula 3\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll.config
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\FluxoCaixa.pdb
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\AspNet.ScriptManager.jQuery.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Owin.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Providers.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\WebGrease.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\System.Web.Optimization.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Antlr3.Runtime.pdb
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Newtonsoft.Json.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\EntityFramework.SqlServer.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Google.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.AssemblyReference.cache
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.csproj.Up2Date
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.dll
+D:\Faculdade\C# Web\Projetos\FluxoCaixaVazio\FluxoCaixa\obj\Debug\FluxoCaixa.pdb
